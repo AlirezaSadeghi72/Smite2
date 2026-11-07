@@ -1,0 +1,6 @@
+{
+  "name": "Smite - Tunnel Management Panel",
+  "description": "Modern tunnel management control panel built on GOST, Backhaul, Rathole, Chisel, and FRP with dual-node architecture, real-time metrics, and Telegram integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
